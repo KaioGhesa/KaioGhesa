@@ -1,16 +1,23 @@
-<h1 align="left">Hello World 👋! Meu nome é Kaio Ghesa, residente de São Paulo e estudante de Engenharia de Software</h1>
+<h1 align="left">Hello World 👋! Meu nome é Kaio Ghesa</h1>
 
 ###
 
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Residente em São Paulo, destaca-se como estudante de Engenharia de Software, embora já tenha conquistado sua formação em Gestão da Tecnologia da Informação. Com uma sólida base acadêmica, busca incessantemente novas oportunidades para aplicar seus conhecimentos e aprimorar suas habilidades na área. Motivado por uma paixão pela tecnologia, está ansioso para contribuir ativamente no campo da engenharia de software, almejando crescimento profissional e desafios estimulantes.</p>
+<p align="left">✨
+💻 Eu sou <strong>Estudante de desenvolvimento de Software</strong>
+🎓 Eu estudo na Engenharia de Software na <strong>USTJ (Universidade São Judas Tadeu)</strong>
+🧑🏽‍💻 Atualmente eu trabalho como Help Desk JR @CobermecCoberturas
+🔎 Também sou curioso sobre Desenvolvimento de Games, Dev Embarcados
+✒️ Eu gosto de no meu tempo livre jogar, andar de skate e fazer caminhadas
+📚 Lendo: A Arte da Guerra (Sun Tzu).</p>
 
+Já trabalhei com...🔧
 ###
 
 <h2 align="left">I code with</h2>
