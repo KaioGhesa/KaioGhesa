@@ -11,11 +11,17 @@
 
 <p align="left">✨
 💻 Eu sou <strong>Estudante de desenvolvimento de Software</strong>
+  <br>
 🎓 Eu estudo na Engenharia de Software na <strong>USTJ (Universidade São Judas Tadeu)</strong>
+  <br>
 🧑🏽‍💻 Atualmente eu trabalho como Help Desk JR @CobermecCoberturas
+  <br>
 🔎 Também sou curioso sobre Desenvolvimento de Games, Dev Embarcados
+  <br>
 ✒️ Eu gosto de no meu tempo livre jogar, andar de skate e fazer caminhadas
+  <br>
 📚 Lendo: A Arte da Guerra (Sun Tzu).</p>
+<br>
 
 Já trabalhei com...🔧
 ###
