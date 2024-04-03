@@ -23,10 +23,9 @@
 📚 Lendo: A Arte da Guerra (Sun Tzu).</p>
 <br>
 
-Já trabalhei com...🔧
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Já trabalhei com...🔧</h2>
 
 ###
 
