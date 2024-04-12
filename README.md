@@ -20,7 +20,7 @@
   <br>
 ✒️ Eu gosto de no meu tempo livre jogar, andar de skate e fazer caminhadas
   <br>
-📚 Lendo: A Arte da Guerra (Sun Tzu).</p>
+📚 Lendo: Java e Orientações a Objetos.</p>
 <br>
 
 ###
