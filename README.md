@@ -30,17 +30,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,javascript,mysql,php)](https://skillicons.dev)
 </div>
 
 ###
+[![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
+
+###
+[![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://br.linkedin.com/in/kaio-ghesa-435467195)
+
