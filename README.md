@@ -32,10 +32,6 @@
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,php)](https://skillicons.dev)
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
-
-###
-[![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://br.linkedin.com/in/kaio-ghesa-435467195)
 
 ![KaioGhesa GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioGhesa&show_icons=true&theme=dark)
 
