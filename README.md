@@ -29,7 +29,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,mysql,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,kotlin,javascript,mysql,php)](https://skillicons.dev)
 
 ###
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
