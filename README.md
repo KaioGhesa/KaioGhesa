@@ -29,9 +29,7 @@
 
 ###
 
-<div align="left">
   [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,javascript,mysql,php)](https://skillicons.dev)
-</div>
 
 ###
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
