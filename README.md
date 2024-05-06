@@ -37,3 +37,8 @@
 ###
 [![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://br.linkedin.com/in/kaio-ghesa-435467195)
 
+![KaioGhesa GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioGhesa&show_icons=true&theme=dark)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmuniiz&layout=compact)](https://github.com/KaioGhesa/github-readme-stats)
