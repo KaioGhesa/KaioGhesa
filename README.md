@@ -29,12 +29,6 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,php,python)](https://skillicons.dev)
 
 ###
-
-![KaioGhesa GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioGhesa&show_icons=true&theme=dark)
-
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmuniiz&layout=compact)](https://github.com/KaioGhesa/github-readme-stats)
