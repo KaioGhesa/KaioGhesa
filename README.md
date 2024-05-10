@@ -29,6 +29,6 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,php,c#,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,php,cs,python)](https://skillicons.dev)
 
 ###
